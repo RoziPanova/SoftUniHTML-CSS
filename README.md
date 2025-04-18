@@ -1,6 +1,6 @@
 # 💓 SoftUni HTML&CSS
 
-> 💌 *A SoftUni HTML and CSS corse I graduated in 2024*
+> 💌 *A SoftUni HTML and CSS corse I took in 2024*
 
 ---
 
