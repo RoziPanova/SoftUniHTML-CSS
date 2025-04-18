@@ -1,0 +1,47 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+}
+h2{
+    font-size: 1.7em;
+    margin: 10px;
+    margin-left: 0;
+}
+.button{
+    text-decoration: none;
+    color:inherit ;
+    border: 2px solid #d8d8d8;
+    border-radius: 5px;
+    padding: 20px 25px;
+    margin:15px 5px;
+    display: inline-block;
+    text-align: center;
+    font-size: 1rem;
+}
+.list-a{
+    margin: 50px 25px;
+    margin-bottom: 0;
+}
+.list-buttons{
+    margin: 0px 25px;
+}
+.list-buttons button:first-of-type{
+    margin-left: 0;
+}
+.list-a a:first-of-type{
+    margin-left:0;
+}
+.gray{
+    background-color:#d8d8d8 ;
+}
+.orange{
+    background-color: #ff9b00;
+}
+.cream{
+    background-color:#f9f9cc ;
+}
+.white{
+    background-color: #fff;
+}
+.edit{
+    background-color:#d8d8d8 ;
+}

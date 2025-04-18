@@ -1,0 +1,17 @@
+body
+{
+    font-family:sans-serif;
+    color: #2e2e2e;
+}
+.container{
+    margin: 30px auto;
+    border: gray solid 1px;
+    width: 70%;
+    padding: 20px;
+}
+.make-italic{
+    font-style: italic;
+}
+time{
+font-style: bold;
+}

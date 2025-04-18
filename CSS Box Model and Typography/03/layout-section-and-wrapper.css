@@ -1,0 +1,23 @@
+body{
+    border: 3px solid green;
+    margin: 0;
+}
+
+.site-main{
+    margin: 25px;
+}
+.site-main div{
+    border: 3px solid gray;
+    padding: 20px 100px ;
+    margin-bottom: 15px;
+}
+
+.site-main div header,
+.site-main div main,
+.site-main div footer{
+    border: 2px solid blue;
+    height: auto;
+    padding: 15px;
+    text-indent: 10px;
+}
+

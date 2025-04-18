@@ -1,0 +1,36 @@
+body{
+    font-family:"Lato", sans-serif;
+}
+.container{
+    width: 70%;
+    margin: 30px auto;
+}
+.container details {
+    border: 1px solid gray;
+    border-bottom: 0;
+    padding: 20px;
+    
+}
+.container details:last-child{
+    border: 1px solid gray;
+}
+.container details summary
+{
+    font-weight: 700;
+    cursor: pointer;
+}
+.container details summary::marker
+{
+    content: none;
+}
+.container details summary::before
+{
+content: '> ';    
+font-weight: 700;
+}
+.container details[open] summary::before
+{
+content: 'v ';    
+font-weight: 700;
+}
+

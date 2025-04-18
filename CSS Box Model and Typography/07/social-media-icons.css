@@ -1,0 +1,18 @@
+.socials-icons
+{
+    margin: 40px 15px;
+}
+.socials-icons a img{
+    width: 20px;
+    margin: 10px 2px;
+    border: 15px solid #ebebeb;
+    background-color: #ebebeb;
+    border-radius:100%;
+}
+.socials-icons span
+{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:larger;
+    font-weight: 750;
+    
+}
